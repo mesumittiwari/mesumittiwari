@@ -135,7 +135,7 @@ An innovative application that transcribes & summarizes meeting audio/text using
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mesumittiwari&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.vercel.app/?user=mesumittiwari&theme=tokyonight" alt="GitHub Streak" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=mesumittiwari&theme=tokyonight&column=7" alt="Sumit Tiwari's GitHub Trophies" />
 </p>
 
 <hr style="border: 1px solid #80CBC4;">
