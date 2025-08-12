@@ -150,7 +150,12 @@ An innovative application that transcribes & summarizes meeting audio/text using
 <hr style="border: 1px solid #80CBC4;">
 
 ### 📬 Connect With Me
-
+<p align="center">
+  <a href="mailto:sumittiwari2414@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/mesumittiwari/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/mesumittiwari"><img src="https://img.shields.io/badge/GitHub-18171F?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://mesumittiwari.github.io/My-WebPage/"><img src="https://img.shields.io/badge/Portfolio-333333?style=flat-square&logo=About.me&logoColor=white" alt="Portfolio"></a>
+</p>
 <p align="center">
   ⭐ <i>Always striving to learn, build innovative solutions, and share knowledge within the tech community!</i> ⭐
 </p>
