@@ -2,6 +2,7 @@
   <a href="https://mesumittiwari.github.io/My-WebPage/">
     <img src="https://github.com/user-attachments/assets/bdc41f59-90fc-4f89-a1d0-5cd9aa696556" alt="Sumit Tiwari Header Banner"/>
   </a>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
   <h1 align="center">👋 Hi, I'm Sumit Tiwari</h1>
   <h3 align="center">A passionate Full-stack & AI/ML Enthusiast from India, crafting impactful tech solutions.</h3>
 
@@ -23,7 +24,7 @@
   </div>
 </div>
 
-<hr style="border: 1px solid #80CBC4;">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 🚀 About Me
 
@@ -32,7 +33,7 @@
 - 📚 Continuously enhancing my skills in **DSA**, **System Design**, and **Cloud Technologies**.
 - 🎓 **B.Tech in Mathematics and Computing (CSE)** | MITS, Gwalior.
 
-<hr style="border: 1px solid #80CBC4;">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 💡 Tech Stack & Tools
 
@@ -83,7 +84,7 @@ A glimpse into the technologies I'm passionate about:
 </table>
 </details>
 
-<hr style="border: 1px solid #80CBC4;">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 🏆 Featured Projects
 
@@ -126,7 +127,7 @@ An innovative application that transcribes & summarizes meeting audio/text using
 🔗 <a href="https://ai-meeting-summarizer-1-sfrq.onrender.com/" target="_blank"><b>See in Action »</b></a>
 </details>
 
-<hr style="border: 1px solid #80CBC4;">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 📊 GitHub Insights
 
@@ -138,7 +139,7 @@ An innovative application that transcribes & summarizes meeting audio/text using
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=mesumittiwari&theme=tokyonight&column=7" alt="Sumit Tiwari's GitHub Trophies" />
 </p>
 
-<hr style="border: 1px solid #80CBC4;">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 🎯 Achievements & Recognition
 
@@ -147,10 +148,12 @@ An innovative application that transcribes & summarizes meeting audio/text using
 - 📈 Solved **400+ DSA problems** on <a href="https://leetcode.com/u/mesumittiwari/">LeetCode</a>.
 - 📜 **Certifications:** [Google Cybersecurity](https://drive.google.com/file/d/1LcKG6tHkCRgsds8lAA4rolmAdRv_4h0v/view?usp=sharing), [Cloud & GenAI Fundamentals](https://www.cloudskillsboost.google/public_profiles/160c2ad9-b296-4f48-863d-09c4371c0bee).
 
-<hr style="border: 1px solid #80CBC4;">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 📬 Connect With Me
 <p align="center">
+
+  
   <a href="mailto:sumittiwari2414@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/mesumittiwari/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/mesumittiwari"><img src="https://img.shields.io/badge/GitHub-18171F?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
@@ -159,3 +162,4 @@ An innovative application that transcribes & summarizes meeting audio/text using
 <p align="center">
   ⭐ <i>Always striving to learn, build innovative solutions, and share knowledge within the tech community!</i> ⭐
 </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
