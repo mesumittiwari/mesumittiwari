@@ -4,6 +4,10 @@
   </a>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
   <h1 align="center">👋 Hi, I'm Sumit Tiwari</h1>
+  <!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
   <h3 align="center">Software Engineer passionate about solving complex problems through algorithms, software engineering, and AI.</h3>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&color=80CBC4&background=282C34&center=true&vCenter=true&width=500&lines=B.Tech+in+Mathematics+and+Computing;Always+eager+to+innovate+and+build;Building+•+Learning+•+Contributing" />
