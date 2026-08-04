@@ -28,10 +28,11 @@
 
 ### 🚀 About Me
 
-- 🛠️ Experienced in **Web Development**, **AI-powered Applications**, and an enthusiastic **Open Source** contributor.
-- 🤝 Eager to collaborate on innovative projects involving **Web Tech, AI, and LLM Integrations**.
-- 📚 Continuously enhancing my skills in **DSA**, **System Design**, and **Cloud Technologies**.
-- 🎓 **B.Tech in Mathematics and Computing (CSE)** | MITS, Gwalior.
+- 🔧 Building software with a focus on **efficiency, scalability, and clean design**.
+- 🧠 Passionate about **Data Structures & Algorithms, SQL, System Design, and AI**.
+- 🤝 Open to collaborating on **Software Engineering, AI, and Open Source** projects.
+- 📚 Continuously learning **Computer Science fundamentals and modern Software Engineering**.
+- 🎓 **B.Tech in Mathematics & Computing** | MITS-DU, Gwalior.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
