@@ -6,7 +6,7 @@
   <h1 align="center">👋 Hi, I'm Sumit Tiwari</h1>
   <h3 align="center">Software Engineer passionate about solving complex problems through algorithms, software engineering, and AI.</h3>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&color=80CBC4&background=282C34&center=true&vCenter=true&width=500&lines=B.Tech+in+Mathematics+and+Computing;Always+eager+to+innovate+and+build;Building•+Learning•+Contributing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&color=80CBC4&background=282C34&center=true&vCenter=true&width=500&lines=B.Tech+in+Mathematics+and+Computing;Always+eager+to+innovate+and+build;Building+•+Learning+•+Contributing" />
 
   <div align="center" style="margin-top: 10px;">
     <a href="https://www.linkedin.com/in/mesumittiwari/" target="_blank">
