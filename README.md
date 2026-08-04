@@ -5,11 +5,6 @@
   </a>
 </div>
 
-<!--Right Aligned Mascot/Gif-->
-<div>
-  <img align="right" width="35%" src="https://raw.githubusercontent.com/platane/platane/master/github-metrics.svg">
-</div>
-
 <!--Header Name-->
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35"/> ɪ'ᴍ sᴜᴍɪᴛ ᴛɪᴡᴀʀɪ! 
 *Digital Craftsman (Software Engineer / Problem Solver)*
@@ -32,12 +27,19 @@
 
 ---
 
-<!--Languages and Tools Section-->        
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Cᴜʀʀᴇɴᴛ Fᴏᴄᴜs</h2> 
+<!-- 3D Animated Tech Stack Section -->        
+<h2 align="center">🌐 Tᴇᴄʜ sᴛᴀᴄᴋ Cᴏʀᴇ 🌐</h2> 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,mysql,react,fastapi,git,github,docker,gcp,vercel,vscode&perline=12" alt="Tech Stack" />
+  <!-- This image points to a generated 3D animated SVG. You will need to set up a GitHub action to generate it for your specific skills (see instructions below) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mesumittiwari/mesumittiwari/main/profile-3d-contrib/profile-night-view.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mesumittiwari/mesumittiwari/main/profile-3d-contrib/profile-green-animate.svg">
+    <!-- Fallback spinning globe if the 3D skill cloud isn't generated yet -->
+    <img src="https://raw.githubusercontent.com/manikandanraji/manikandanraji/master/assets/images/tech-stack.gif" alt="3D Tech Stack" width="400"/>
+  </picture>
 </div>
+
 <br />
 
 <h3 align="left">Current Engineering Focus</h3>
@@ -90,24 +92,6 @@
       </p>
     </td>
   </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
-      <p align="center">
-        <a href="https://github.com/mesumittiwari/MeetScribe">
-          <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=mesumittiwari&repo=MeetScribe&theme=nightowl&show_owner=true&bg_color=0,000000,101820&title_color=00FF99&text_color=ffffff&hide_border=true" alt="MeetScribe" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Lᴀɴɢᴜᴀɢᴇs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/mesumittiwari">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mesumittiwari&layout=compact&theme=nightowl&bg_color=0,000000,101820&title_color=00FF99&text_color=ffffff&hide_border=true" alt="Top Languages" />
-        </a>
-      </p>
-    </td>
-  </tr>
 </table>
 <br />
 
@@ -122,11 +106,9 @@
 <!--Dynamic Quote card updates everyday at 12 PM--> 
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 
-<!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
     <img src="https://readme-daily-quotes.vercel.app/api?theme=dark&bg_color=0D1117&author_color=36BCF7&accent_color=00FF99">
 </p>
-<!--ENDS_HERE_QUOTE_CARD-->
 
 <br />
 
