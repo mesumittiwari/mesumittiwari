@@ -1,4 +1,11 @@
 <div align="center">
+  <img src="assets/terminal.svg" alt="Terminal Hero" />
+</div>
+
+
+
+
+<div align="center">
   <!-- Clean Animated Header -->
   <a href="https://mesumittiwari.github.io/My-WebPage/">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00FF99&center=true&vCenter=true&width=600&height=70&lines=Sumit+Tiwari;Software+Engineer;Algorithms+%26+Systems" alt="Header Banner" />
