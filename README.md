@@ -193,7 +193,7 @@ An innovative application that transcribes & summarizes meeting audio/text using
 
 ### 📬 Connect With Me
 <p align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sumittiwari2414@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sumittiwari2414@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/mesumittiwari/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/mesumittiwari" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-18171F?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://x.com/mesumittiwari" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/%20-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
