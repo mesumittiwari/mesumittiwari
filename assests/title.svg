@@ -25,7 +25,7 @@ repeatCount="indefinite"/>
 
 <!-- Sentence 2 -->
 <text x="450" y="30" opacity="0">
-Software Engineer
+Always eager to innovate and Build
 <animate attributeName="opacity"
 values="0;0;1;1;0;0"
 keyTimes="0;0.25;0.30;0.47;0.50;1"
@@ -35,7 +35,7 @@ repeatCount="indefinite"/>
 
 <!-- Sentence 3 -->
 <text x="450" y="30" opacity="0">
-DSA • SQL • System Design
+Open Source Contributor
 <animate attributeName="opacity"
 values="0;0;1;1;0;0"
 keyTimes="0;0.50;0.55;0.72;0.75;1"
