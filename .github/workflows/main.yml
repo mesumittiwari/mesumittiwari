@@ -15,9 +15,9 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      # 1. Generate 3D Contribution Globe
+      # 1. Generate 3D Contribution Globe (Corrected Repository Name)
       - name: Generate 3D Globe
-        uses: yoshi38610/github-profile-3d-contrib@0.7.2
+        uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
@@ -31,7 +31,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # 3. Commit and Push Assets directly to output branch
+      # 3. Commit and Push Assets
       - name: Push Generated Assets
         uses: peaceiris/actions-gh-pages@v3
         with:
