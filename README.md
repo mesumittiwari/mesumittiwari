@@ -1,8 +1,10 @@
+<!-- Banner -->
 <div id="header" align="center">
   <a href="https://mesumittiwari.github.io/My-WebPage/">
     <img src="https://github.com/user-attachments/assets/51e16522-7345-4362-b64d-1076a67ba445" alt="Sumit Tiwari Header Banner"/>
   </a>
-  <!-- Dynamic Header -->
+  
+<!-- Dynamic Header -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&d&duration=3000&pause=1000&lines=Hi+There!+👋;I'm+Sumit+Tiwari;Software+Engineer;Problem+Solver!&color=38B6FF" />
 <!-- Floating Terminal Subtitle -->
@@ -10,14 +12,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=40&lines=%24+visitor+%E2%86%92+Welcome+to+my+Github;%24+whoami+%E2%86%92+Sumit+Tiwari;%24+role+%E2%86%92+Software+Engineer;%24+motto+%E2%86%92+Turning+complex+problems+into+scalable+code." alt="Terminal Output" />
 </div>
 </h1>
-
-
-
-
-
-<!-- <h3 align="center">Architecting scalable systems, training intelligent models, and optimizing complex algorithms.</h3> -->
 <p align="center">
-  <img src="./assests/title.svg" width="700">
+  <img src="./assets/title.svg" width="700">
 </p>
 
   <div align="center" style="margin-top: 10px;">
@@ -191,10 +187,3 @@ An innovative application that transcribes & summarizes meeting audio/text using
 <p align="center">
   ⭐ <i>Always striving to learn, build innovative solutions, and share knowledge within the tech community!</i> ⭐
 </p>
-
-
-
-
-
-<br>
-
