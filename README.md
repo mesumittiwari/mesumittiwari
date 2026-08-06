@@ -1,13 +1,13 @@
 <div align="center">
-  <!-- Glowing Animated Header Banner -->
+  <!-- Clean Animated Header -->
   <a href="https://mesumittiwari.github.io/My-WebPage/">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF99,100:00B8D9&height=200&section=header&text=Sumit%20Tiwari&fontSize=70&fontColor=ffffff&animation=twinkling&desc=Software%20Engineer%20%7C%20Algorithms%20%26%20Systems&descSize=20&descAlign=50&descAlignY=70" width="100%" alt="Header Banner"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00FF99&center=true&vCenter=true&width=600&height=70&lines=Sumit+Tiwari;Software+Engineer;Algorithms+%26+Systems" alt="Header Banner" />
   </a>
 </div>
 
-<!-- Floating Terminal Canvas Header -->
+<!-- Floating Terminal Subtitle -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2000&pause=1000&color=00FF99&background=0D111700&center=true&vCenter=true&width=800&height=50&lines=%24+whoami+%E2%86%92+Sumit+Tiwari;%24+role+%E2%86%92+Software+Engineer;%24+core+%E2%86%92+DSA+%E2%80%A2+SQL+%E2%80%A2+System+Design+%E2%80%A2+C%2B%2B;%24+motto+%E2%86%92+Turning+complex+problems+into+scalable+code." alt="Terminal Output" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=40&lines=%24+whoami+%E2%86%92+Sumit+Tiwari;%24+role+%E2%86%92+Software+Engineer;%24+core+%E2%86%92+DSA+%E2%80%A2+SQL+%E2%80%A2+System+Design;%24+motto+%E2%86%92+Turning+complex+problems+into+scalable+code." alt="Terminal Output" />
 </div>
 
 <p align="center">
@@ -33,13 +33,11 @@
 
 ### 💻 System Diagnostics & Focus
 
-```text
-┌─────────────────────────────────────────────────────────────────────────┐
-│  $ systeminfo --user sumittiwari                                       │
-│                                                                         │
-│  • Degree    : B.Tech in Mathematics & Computing (MITS-DU)             │
-│  • Primary   : Data Structures & Algorithms, C++, SQL, System Design   │
-│  • AI/ML     : LangChain, LLM APIs (Gemini, Groq), Whisper, Vector Search│
-│  • Backend   : RESTful APIs, FastAPI, Python, Data Pipelines           │
-│  • Status    : Open for Software Engineering & Systems Collaborations  │
-└─────────────────────────────────────────────────────────────────────────┘
+```bash
+$ systeminfo --user sumittiwari
+
+[Degree]  : B.Tech in Mathematics & Computing (MITS-DU)
+[Primary] : Data Structures & Algorithms, C++, SQL, System Design
+[AI/ML]   : LangChain, LLM APIs (Gemini, Groq), Whisper, Vector Search
+[Backend] : RESTful APIs, FastAPI, Python, Data Pipelines
+[Status]  : Open for Software Engineering & Systems Collaborations
