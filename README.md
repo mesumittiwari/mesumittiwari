@@ -46,9 +46,13 @@
 <br>
 
 ### 🐍 Contribution Activity
-<!-- Placeholder for the interactive snake animation we will build next -->
+
 <div align="center">
-  <i>Setting up automated GitHub contribution snake...</i>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mesumittiwari/mesumittiwari/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mesumittiwari/mesumittiwari/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mesumittiwari/mesumittiwari/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 
