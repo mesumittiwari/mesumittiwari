@@ -4,14 +4,15 @@
   </a>
   <!-- Dynamic Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;I'm+Sumit+Tiwari;Software+Engineer;Problem+Solver!&color=38B6FF" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&d&duration=3000&pause=1000&lines=Hi+There!+👋;I'm+Sumit+Tiwari;Software+Engineer;Problem+Solver!&color=38B6FF" />
+<!-- Floating Terminal Subtitle -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=40&lines=%24+visitor+%E2%86%92+Welcome+to+my+Github;%24+whoami+%E2%86%92+Sumit+Tiwari;%24+role+%E2%86%92+Software+Engineer;%24+motto+%E2%86%92+Turning+complex+problems+into+scalable+code." alt="Terminal Output" />
+</div>
 </h1>
 
 
-<!-- Floating Terminal Subtitle -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=40&lines=%24+whoami+%E2%86%92+Sumit+Tiwari;%24+role+%E2%86%92+Software+Engineer;%24+core+%E2%86%92+DSA+%E2%80%A2+SQL+%E2%80%A2+System+Design;%24+motto+%E2%86%92+Turning+complex+problems+into+scalable+code." alt="Terminal Output" />
-</div>
+
 
 
 <!-- <h3 align="center">Architecting scalable systems, training intelligent models, and optimizing complex algorithms.</h3> -->
