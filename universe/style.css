@@ -1,0 +1,174 @@
+/* =========================================
+   Base Resets & Typography
+   ========================================= */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #050505;
+    color: #e2e8f0;
+    font-family: 'JetBrains Mono', monospace;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden; /* Keeps the floating background elements contained */
+    position: relative;
+}
+
+/* =========================================
+   Animated Background "Universe" Orbs
+   ========================================= */
+.bg-shape {
+    position: absolute;
+    border-radius: 50%;
+    filter: blur(80px);
+    z-index: -1;
+    animation: drift 20s infinite alternate ease-in-out;
+}
+
+.shape1 {
+    width: 400px;
+    height: 400px;
+    background: rgba(45, 112, 255, 0.15); /* Subtle tech blue */
+    top: -100px;
+    left: -100px;
+}
+
+.shape2 {
+    width: 300px;
+    height: 300px;
+    background: rgba(255, 255, 255, 0.05); /* Monochrome glow */
+    bottom: -50px;
+    right: -50px;
+    animation-delay: -10s;
+}
+
+@keyframes drift {
+    0% { transform: translate(0, 0) scale(1); }
+    100% { transform: translate(50px, 50px) scale(1.1); }
+}
+
+/* =========================================
+   The Glass Terminal Container
+   ========================================= */
+.glass-terminal {
+    width: 90%;
+    max-width: 800px;
+    height: 80vh;
+    max-height: 600px;
+    
+    /* Glassmorphism Magic */
+    background: rgba(20, 20, 22, 0.6);
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 12px;
+    box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.8);
+    
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+/* =========================================
+   macOS Style Header
+   ========================================= */
+.terminal-header {
+    background: rgba(255, 255, 255, 0.03);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+    padding: 12px 20px;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+
+.window-controls {
+    display: flex;
+    gap: 8px;
+    position: absolute;
+}
+
+.control {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+}
+
+.close { background-color: #ff5f56; }
+.minimize { background-color: #ffbd2e; }
+.maximize { background-color: #27c93f; }
+
+.window-title {
+    width: 100%;
+    text-align: center;
+    font-size: 0.85rem;
+    color: #8b949e;
+    letter-spacing: 0.5px;
+}
+
+/* =========================================
+   Terminal Body & Typography
+   ========================================= */
+.terminal-body {
+    padding: 30px;
+    overflow-y: auto;
+    flex-grow: 1;
+    font-size: 0.95rem;
+    line-height: 1.6;
+}
+
+/* Custom Scrollbar for Terminal */
+.terminal-body::-webkit-scrollbar {
+    width: 8px;
+}
+.terminal-body::-webkit-scrollbar-thumb {
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 4px;
+}
+
+/* =========================================
+   Dynamic Classes (Injected by JS later)
+   ========================================= */
+.prompt-line {
+    margin-top: 15px;
+    display: flex;
+    gap: 10px;
+}
+
+.prompt {
+    color: #8b949e; /* Monochrome prompt */
+}
+
+.command {
+    color: #e2e8f0;
+    font-weight: bold;
+}
+
+.output {
+    color: #a3a3a3;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    white-space: pre-wrap; /* Respects line breaks for ASCII blocks */
+}
+
+.highlight {
+    color: #ffffff;
+    font-weight: bold;
+}
+
+/* The Blinking Cursor */
+.cursor {
+    display: inline-block;
+    color: #ffffff;
+    animation: blink 1s step-end infinite;
+    vertical-align: text-bottom;
+}
+
+@keyframes blink {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0; }
+}
