@@ -1,6 +1,7 @@
 <!-- Banner -->
 <div id="header" align="center">
-  <a href="https://mesumittiwari.github.io/My-WebPage/">
+  <a href="https://mesumittiwari.github.io/My-WebPage/" target="_blank"
+   rel="noopener noreferrer">
     <img src="https://github.com/user-attachments/assets/51e16522-7345-4362-b64d-1076a67ba445" alt="Sumit Tiwari Header Banner"/>
   </a>
   
@@ -17,18 +18,13 @@
 </p>
 
   <div align="center" style="margin-top: 10px;">
-    <a href="https://www.linkedin.com/in/mesumittiwari/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://leetcode.com/u/mesumittiwari/" target="_blank">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-    </a>
-    <a href="mailto:sumittiwari2414@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-    </a>
-    <a href="https://mesumittiwari.github.io/My-WebPage/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
-    </a>
+    <a href="https://www.linkedin.com/in/mesumittiwari/" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://leetcode.com/u/mesumittiwari/" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+    <a href="mailto:sumittiwari2414@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="https://mesumittiwari.github.io/My-WebPage/" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio"/></a>
   </div>
 </div>
 
@@ -109,7 +105,7 @@ A dynamic web application for building professional resumes with **real-time pre
   <li>📈 Over 15 daily downloads, empowering job seekers.</li>
   <li>📊 Achieved a 40% increase in user engagement through intuitive design.</li>
 </ul>
-🔗 <a href="https://craft-resume.vercel.app/" target="_blank"><b>Explore Live »</b></a>
+🔗 <a href="https://craft-resume.vercel.app/" target="_blank" rel="noopener noreferrer"><b>Explore Live »</b></a>
 </details>
 
 <details>
@@ -122,7 +118,7 @@ An intelligent tool that automates personalized cold emails from job description
   <li>⚡ Generates results in < 10 seconds.</li>
   <li>⏳ Reduces drafting time by 70-85%, boosting productivity.</li>
 </ul>
-🔗 <a href="https://sumit-coldemailgenerator.streamlit.app/" target="_blank"><b>Try it Out »</b></a>
+🔗 <a href="https://sumit-coldemailgenerator.streamlit.app/" target="_blank" rel="noopener noreferrer"><b>Try it Out »</b></a>
 </details>
 
 <details>
@@ -135,7 +131,7 @@ An innovative application that transcribes & summarizes meeting audio/text using
   <li>📤 Flexible export options in CSV & JSON formats.</li>
   <li>📧 Integrated email sharing for seamless distribution.</li>
 </ul>
-🔗 <a href="https://ai-meeting-summarizer-1-sfrq.onrender.com/" target="_blank"><b>See in Action »</b></a>
+🔗 <a href="https://ai-meeting-summarizer-1-sfrq.onrender.com/" target="_blank" rel="noopener noreferrer"><b>See in Action »</b></a>
 </details>
 
 <hr style="border: 1px solid #80CBC4;">
@@ -172,18 +168,21 @@ An innovative application that transcribes & summarizes meeting audio/text using
 
 - 🏅 **Google Cloud & GenAI Study Jams Top Performer** (3x at MITS).
 - 🏆 Organized 10+ technical events under **GDG**, impacting 1100+ students.
-- 📈 Solved **400+ DSA problems** on <a href="https://leetcode.com/u/mesumittiwari/">LeetCode</a>.
+- 📈 Solved **400+ DSA problems** on <a href="https://leetcode.com/u/mesumittiwari/" target="_blank" rel="noopener noreferrer">LeetCode</a>.
 - 📜 **Certifications:** [Google Cybersecurity](https://drive.google.com/file/d/1LcKG6tHkCRgsds8lAA4rolmAdRv_4h0v/view?usp=sharing), [Cloud & GenAI Fundamentals](https://www.cloudskillsboost.google/public_profiles/160c2ad9-b296-4f48-863d-09c4371c0bee).
 
 <hr style="border: 1px solid #80CBC4;">
 
 ### 📬 Connect With Me
 <p align="center">
-  <a href="mailto:sumittiwari2414@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/mesumittiwari/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/mesumittiwari"><img src="https://img.shields.io/badge/GitHub-18171F?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://mesumittiwari.github.io/My-WebPage/"><img src="https://img.shields.io/badge/Portfolio-333333?style=flat-square&logo=About.me&logoColor=white" alt="Portfolio"></a>
+  <a href="mailto:sumittiwari2414@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/mesumittiwari/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/mesumittiwari" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-18171F?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://x.com/mesumittiwari" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/%20-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://mesumittiwari.github.io/My-WebPage/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-333333?style=flat-square&logo=globe&logoColor=white&label=" alt="Portfolio"></a>
 </p>
 <p align="center">
   ⭐ <i>Always striving to learn, build innovative solutions, and share knowledge within the tech community!</i> ⭐
 </p>
+
+
