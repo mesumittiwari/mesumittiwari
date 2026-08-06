@@ -35,60 +35,78 @@
 
 ### 🚀 About Me
 
-- 🛠️ Experienced in **Web Development**, **AI-powered Applications**, and an enthusiastic **Open Source** contributor.
-- 🤝 Eager to collaborate on innovative projects involving **Web Tech, AI, and LLM Integrations**.
-- 📚 Continuously enhancing my skills in **DSA**, **System Design**, and **Cloud Technologies**.
-- 🎓 **B.Tech in Mathematics and Computing (CSE)** | MITS, Gwalior.
-
+- 🔧 Building software with a focus on **efficiency, scalability, and clean design**.
+- 🧠 Passionate about **Data Structures & Algorithms, SQL, System Design, and AI**.
+- 🤝 Open to collaborating on **Software Engineering, AI, and Open Source** projects.
+- 📚 Continuously learning **Computer Science fundamentals and modern Software Engineering**.
+- 🎓 **B.Tech in Mathematics & Computing** | MITS-DU, Gwalior.
+  
 <hr style="border: 1px solid #80CBC4;">
 
 ### 💡 Tech Stack & Tools
 
-A glimpse into the technologies I'm passionate about:
+Building software with a strong foundation in **Computer Science fundamentals**, modern development tools, and cloud technologies.
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,py,react,tailwind,fastapi,git,github,gcp,vercel" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=c,cpp,mysql,git,github,linux,gcp,vercel,vscode,postman" />
 </p>
 
 <details>
-<summary><b>Expand to see the full spectrum</b></summary>
+<summary><b>📚 Expand to view my complete toolkit</b></summary>
+
 <br>
-<table>
-  <tr>
-    <td valign="top" width="25%">
-      <strong>Languages</strong><br>
-      - C<br>
-      - C++<br>
-      - Python<br>
-      - SQL<br>
-    </td>
-    <td valign="top" width="25%">
-      <strong>Core CS</strong><br>
-      - DSA<br>
-      - OOP<br>
-      - OS<br>
-      - DBMS<br>
-      - CN<br>
-    </td>
-    <td valign="top" width="25%">
-      <strong>Frameworks & Tools</strong><br>
-      - FastAPI<br>
-      - React<br>
-      - Tailwind CSS<br>
-      - Git & GitHub<br>
-    </td>
-    <td valign="top" width="25%">
-      <strong>AI/ML & Cloud</strong><br>
-      - LangChain<br>
-      - Hugging Face<br>
-      - Gemini API<br>
-      - Google Cloud<br>
-      - Render & Vercel<br>
-    </td>
-  </tr>
-</table>
+
+### 💻 Languages
+- C
+- C++
+- SQL
+
+---
+
+### 🧠 Computer Science Fundamentals
+- Data Structures & Algorithms
+- Object-Oriented Programming (OOP)
+- Database Management Systems (DBMS)
+- Operating Systems (OS)
+- Computer Networks (CN)
+- System Design
+
+---
+
+### 🔧 Version Control
+- Git
+- GitHub
+- GitHub Actions
+
+---
+
+### 🛠 Development Tools
+- Visual Studio Code
+- Postman
+- Figma
+- Canva
+- Microsoft Office
+
+---
+
+### ☁️ Cloud & Deployment
+- Google Cloud Platform (GCP)
+- Vercel
+- Render
+
+---
+
+### 🌐 APIs & Integrations
+- REST APIs
+- Gemini API
+- OpenAI API
+- Groq API
+
+---
+
+### 🏆 Coding Platforms
+- LeetCode
+
 </details>
 
 <hr style="border: 1px solid #80CBC4;">
