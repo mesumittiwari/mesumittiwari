@@ -1,3 +1,52 @@
+<!-- The Glassmorphism Hero Section -->
+<div align="center">
+  <img src="assets/glass-hero.svg" alt="Glassmorphism Terminal Hero" width="100%" />
+</div>
+
+<!-- Navigation / Connect Bar -->
+<div align="center">
+  <br>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email_Me-0a0a0a?style=for-the-badge&logo=gmail&logoColor=white&border=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=38bdf8&border=white" alt="LinkedIn" /></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Website-0a0a0a?style=for-the-badge&logo=globe&logoColor=a855f7&border=white" alt="Portfolio" /></a>
+  <br><br><br>
+</div>
+
+<!-- The "About" & "Stats" UI Split -->
+<table width="100%" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td width="50%" valign="top" style="border: none;">
+      <h2 align="center">⚡ System Metrics</h2>
+      <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=mesumittiwari&show_icons=true&theme=transparent&hide_border=true&title_color=38bdf8&text_color=e2e8f0&icon_color=a855f7" alt="GitHub Stats" />
+      </div>
+    </td>
+    <td width="50%" valign="top" style="border: none;">
+      <h2 align="center">🌐 Domain Expertise</h2>
+      <div align="center">
+        <br>
+        <img src="https://skillicons.dev/icons?i=cpp,c,py,html,css,js,ts,react&perline=4" alt="Primary Stack" />
+        <br><br>
+        <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,git,linux,gcp,docker&perline=4" alt="Secondary Stack" />
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br><br>
+
+<!-- Activity Footer -->
+<h2 align="center">🐍 Commit Heatmap</h2>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mesumittiwari/mesumittiwari/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mesumittiwari/mesumittiwari/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mesumittiwari/mesumittiwari/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+
+
 <!-- Dynamic Header -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;I'm+Sumit+Tiwari;Software+Engineer;Problem+Solver!&color=38B6FF" />
