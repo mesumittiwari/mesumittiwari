@@ -1,139 +1,148 @@
-<!--Banner-->
+👋 Hi, I'm Sumit Tiwari
+
 <div align="center">
-  <a href="https://mesumittiwari.github.io/My-WebPage/">
-    <img src="https://github.com/user-attachments/assets/bdc41f59-90fc-4f89-a1d0-5cd9aa696556" alt="Sumit Tiwari Header Banner" width="100%"/>
-  </a>
-</div>
 
-<!--Header Name-->
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35"/> ɪ'ᴍ sᴜᴍɪᴛ ᴛɪᴡᴀʀɪ! 
-*Digital Craftsman (Software Engineer / Problem Solver)*
-<br />
+<a href="https://mesumittiwari.github.io/My-WebPage/">
+<img src="https://github.com/user-attachments/assets/bdc41f59-90fc-4f89-a1d0-5cd9aa696556" alt="Banner"/>
+</a>
 
-<!--Start Intro-->                
-<p align="left">I am a Software Engineer and Mathematics & Computing graduate with a deep focus on building scalable systems. I love bridging the gap between intelligent ML models and robust WebDev projects to create practical, efficient applications.</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineer;Mathematics+%26+Computing+Graduate;DSA+%7C+SQL+%7C+System+Design;Building+Efficient+Software;Always+Learning+%F0%9F%9A%80" />
 
-- ⚡ I tackle complex DSA problems primarily using **C++**.
-- 🌱 I’m currently expanding my expertise in **System Design** and advanced **AI/LLM integrations**.
-- 🏆 Conquered over **600+ problems** on [LeetCode](https://leetcode.com/u/mesumittiwari/).
-- 🎤 Community leader and 3x Top Performer at Google Cloud & GenAI Study Jams.
-- 💻 Visit my [Portfolio](https://mesumittiwari.github.io/My-WebPage/) for more details about my journey.
-<!--End Intro-->
-
-<!--Profile Count Badge-->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mesumittiwari&label=Profile%20views&color=00FF99&style=for-the-badge&logo=star" alt="mesumittiwari" style="padding-right:20px;" />
+<p>
+<a href="https://www.linkedin.com/in/mesumittiwari/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/u/mesumittiwari/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="mailto:sumittiwari2414@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://mesumittiwari.github.io/My-WebPage/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </p>
 
----
+<img src="https://komarev.com/ghpvc/?username=mesumittiwari&style=for-the-badge&color=0e75b6"/>
+<img src="https://img.shields.io/github/followers/mesumittiwari?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/mesumittiwari?affiliations=OWNER&style=for-the-badge"/>
 
-<!-- 3D Animated Tech Stack Section -->        
-<h2 align="center">🌐 Tᴇᴄʜ sᴛᴀᴄᴋ Cᴏʀᴇ 🌐</h2> 
-
-<div align="center">
-  <!-- This image points to a generated 3D animated SVG. You will need to set up a GitHub action to generate it for your specific skills (see instructions below) -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mesumittiwari/mesumittiwari/main/profile-3d-contrib/profile-night-view.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mesumittiwari/mesumittiwari/main/profile-3d-contrib/profile-green-animate.svg">
-    <!-- Fallback spinning globe if the 3D skill cloud isn't generated yet -->
-    <img src="https://raw.githubusercontent.com/manikandanraji/manikandanraji/master/assets/images/tech-stack.gif" alt="3D Tech Stack" width="400"/>
-  </picture>
 </div>
 
-<br />
+🚀 About Me
 
-<h3 align="left">Current Engineering Focus</h3>
-<ul align="left">
-  <li>Architecting AI-powered backend systems using FastAPI, LangChain, and LLM APIs (Gemini, Groq).</li>
-  <li>Optimizing query performance and database management in SQL/RDBMS environments.</li>
-  <li>Mastering Core CS principles (OOP, OS, Computer Networks) to build fault-tolerant web applications.</li>
-</ul>
-  
-<h3 align="left">Featured Projects</h3>
-<ul align="left">
-  <li><a href="https://github.com/mesumittiwari/MeetScribe">🎙️ <b>MeetScribe:</b> LLM-Based Meeting Transcription & Insight System (Whisper + Gemini)</a></li>
-  <li><a href="https://github.com/mesumittiwari/PitchPilot">📧 <b>PitchPilot:</b> Automated Job-Aware Cold Email Generator (LangChain + LLaMA3)</a></li>
-  <li><a href="https://craft-resume.vercel.app/">📄 <b>Craft.Resume:</b> Dynamic Resume Builder with real-time preview</a></li>
-</ul>
-<br />
+💻 Software Engineer passionate about solving challenging problems.
 
-<!--Trophies Section-->    
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
-<p align="center">
-  <a href="https://github.com/mesumittiwari">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=mesumittiwari&theme=tokyonight&no-bg=true&row=1&column=6&margin-w=20&margin-h=20">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=mesumittiwari&theme=flat&no-bg=true&row=1&column=6&margin-w=20&margin-h=20">
-      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=mesumittiwari&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=6&margin-w=20&margin-h=20">
-    </picture>
-  </a>
-</p>
-<br />
+🧠 Focused on Data Structures & Algorithms, SQL, System Design, and Computer Science Fundamentals.
 
-<!--Github stats Table--> 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+🤖 Building practical AI-powered applications.
 
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/mesumittiwari">
-          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=mesumittiwari&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,101820&title_color=00FF99&text_color=ffffff&rank_icon=github&hide_border=true" alt="GitHub Stats" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/mesumittiwari">
-          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=mesumittiwari&theme=nightowl&background=0,000000,101820&fire=00FF99&ring=00FF99&sideNums=ffffff&sideLabels=ffffff&dates=36BCF7&currStreakNum=ffffff&hide_border=true" alt="Streak Stats" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-<br />
+🌱 Always learning and improving.
 
-<!--Contribution Graph-->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+🤝 Open to collaboration on Software Engineering and Open Source.
+
+🛠️ Tech Stack
+
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mesumittiwari&bg_color=0D1117&color=ffffff&line=00FF99&point=36BCF7&area=true&hide_border=true" border-radius="15">
+
+Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,c,python,mysql"/>
+
+Core CS
+
+DSA • OOP • DBMS • OS • Computer Networks • System Design
+
+Frameworks & Tools
+
+<img src="https://skillicons.dev/icons?i=react,fastapi,git,github,docker,gcp,vercel,vscode"/>
+
+AI
+
+LangChain • Gemini API • Hugging Face • Whisper.cpp
+
 </div>
 
----
+🚀 Featured Projects
 
-<!--Dynamic Quote card updates everyday at 12 PM--> 
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+Project
+
+Description
+
+Tech
+
+AI Meeting Summarizer
+
+Summarizes meetings using Whisper.cpp and LLMs
+
+Python, FastAPI, React
+
+AI Cold Email Generator
+
+Generates personalized cold emails from job descriptions
+
+LangChain, Llama3, Groq
+
+Craft.Resume
+
+Resume builder with PDF export
+
+HTML, CSS, JavaScript
+
+📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mesumittiwari&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=mesumittiwari&theme=github-dark-blue&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mesumittiwari&layout=compact&theme=github_dark&hide_border=true"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=mesumittiwari&theme=algolia&row=2&column=3&no-frame=true"/>
+
+</div>
+
+📈 Contribution Graph
 
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?theme=dark&bg_color=0D1117&author_color=36BCF7&accent_color=00FF99">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mesumittiwari&theme=github-dark&hide_border=true"/>
 </p>
 
-<br />
+🐍 Contribution Snake
 
-<!--Contact Section--> 
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
-<div align="center">
-  <a href="mailto:sumittiwari2414@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://www.linkedin.com/in/mesumittiwari/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://leetcode.com/u/mesumittiwari/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://github.com/mesumittiwari" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-18171F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://mesumittiwari.github.io/My-WebPage/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-252B48?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="margin-bottom: 5px;" />
-  </a>
-</div>
-<br/>
+Enable the GitHub Action from Platane/snk to make this work.
 
-<!--Footer--> 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
+
+🏅 Achievements
+
+🏆 Google Cloud & GenAI Study Jams Top Performer (3×)
+
+🎤 Organized 10+ technical events under GDG
+
+💯 400+ LeetCode problems solved
+
+🎓 B.Tech in Mathematics & Computing | MITS-DU
+
+🤝 Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/mesumittiwari/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:sumittiwari2414@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/mesumittiwari">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</div>
+
+<div align="center">
+
+⭐ Building • Learning • Contributing
+
+"Turning complex problems into elegant software solutions."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
+
+</div>
