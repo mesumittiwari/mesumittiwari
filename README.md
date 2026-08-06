@@ -1,3 +1,57 @@
+<!-- Dynamic Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;I'm+Sumit+Tiwari;Software+Engineer;Problem+Solver!&color=38B6FF" />
+</h1>
+
+<h3 align="center">Architecting scalable systems, training intelligent models, and optimizing complex algorithms.</h3>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/mesumittiwari/count.svg" alt="Visitor Count" />
+</div>
+
+<br>
+
+<div align="center">
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-2563eb?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" /></a>
+</div>
+
+---
+
+### 👨‍💻 The Blueprint
+- 🔭 Currently engineering robust **WebDev** architectures and exploring advanced **AIML** ecosystems.
+- ⚡ Daily Grind: Shredding heavy **DSA** problems using **C++**.
+- 🌱 Always learning: Distributed systems, cloud infrastructure, and finding elegant solutions to messy problems.
+- 💬 Ask me about: Algorithms, database optimization, and API design.
+
+<br>
+
+### 🛠️ Core Arsenal
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,py,html,css,js,ts,react,nodejs,express,mysql,mongodb,git,linux,gcp,docker&perline=8" />
+</div>
+
+<br>
+
+### 📊 Live Git Analytics
+<div align="center">
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=mesumittiwari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=mesumittiwari&theme=tokyonight&hide_border=true&background=0D1117" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mesumittiwari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</div>
+
+<br>
+
+### 🐍 Contribution Activity
+<!-- Placeholder for the interactive snake animation we will build next -->
+<div align="center">
+  <i>Setting up automated GitHub contribution snake...</i>
+</div>
+
+
 <div align="center">
   
   # ⚡ Sumit Tiwari
