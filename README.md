@@ -1,5 +1,20 @@
 <div align="center">
-  <img src="assets/terminal.svg" alt="Terminal Hero" />
+  
+  # ⚡ Sumit Tiwari
+  ### Software Engineer | Problem Solver
+
+  <a href="https://github.com/mesumittiwari">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=1000&color=79C0FF&center=true&vCenter=true&width=600&lines=Crushing+DSA+with+C%2B%2B;Architecting+Scalable+Web+Apps;Building+Intelligent+AIML+Models;Turning+Complex+Problems+into+Solutions" alt="Typing Animation" />
+  </a>
+
+</div>
+
+---
+
+<div align="center">
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact_Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-Visit_Site-2563eb?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" /></a>
 </div>
 
 
