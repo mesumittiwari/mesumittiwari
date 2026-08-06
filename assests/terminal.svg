@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" width="800" height="300">
+  <style>
+    .bg { fill: #0d1117; stroke: #30363d; stroke-width: 2; rx: 10; }
+    .text { font-family: 'Courier New', monospace; font-size: 16px; fill: #c9d1d9; }
+    .prompt { fill: #7ee787; font-weight: bold; }
+    .cmd { fill: #79c0ff; }
+    .cursor { fill: #c9d1d9; animation: blink 1s step-end infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+  
+  <!-- Window Background -->
+  <rect class="bg" width="100%" height="100%" />
+  
+  <!-- macOS Buttons -->
+  <circle cx="25" cy="25" r="7" fill="#ff5f56" />
+  <circle cx="45" cy="25" r="7" fill="#ffbd2e" />
+  <circle cx="65" cy="25" r="7" fill="#27c93f" />
+
+  <!-- Terminal Content -->
+  <text x="25" y="75" class="text">
+    <tspan class="prompt">sumit@desktop</tspan>:<tspan class="cmd">~</tspan>$ cat about_me.txt
+  </text>
+  <text x="25" y="105" class="text">Hi, I'm Sumit Tiwari. I turn complex problems into elegant solutions.</text>
+  <text x="25" y="135" class="text">Specializing in C++ for DSA, alongside cutting-edge</text>
+  <text x="25" y="165" class="text">AI/ML algorithms and scalable WebDev architectures.</text>
+
+  <text x="25" y="215" class="text">
+    <tspan class="prompt">sumit@desktop</tspan>:<tspan class="cmd">~</tspan>$ ./display_focus.sh
+  </text>
+  <text x="25" y="245" class="text">Building intelligent systems and crushing complex algorithms.</text>
+
+  <!-- Blinking Cursor -->
+  <text x="25" y="285" class="text">
+    <tspan class="prompt">sumit@desktop</tspan>:<tspan class="cmd">~</tspan>$ <tspan class="cursor">█</tspan>
+  </text>
+</svg>
