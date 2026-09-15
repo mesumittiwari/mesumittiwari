@@ -113,21 +113,62 @@ Building software with a strong foundation in **Computer Science fundamentals**,
 
 ### 🏆 Featured Projects
 
+<hr style="border: 1px solid #80CBC4;">
+
+### 💡 Featured Projects
+
 <details open>
-<summary>🌐 <b>Craft.resume</b></summary>
+<summary>⚙️ <b>Mini-Redis — Persistent Multithreaded Key-Value Store</b></summary>
+
 <br>
-A dynamic web application for building professional resumes with **real-time preview** and seamless **PDF export**.
-<br><br>
-🛠️ <b>Tech:</b> HTML, CSS, JavaScript
+
+A lightweight **Redis-inspired in-memory key-value store** built from scratch in C++ using **POSIX TCP sockets, multithreading, synchronization, and snapshot persistence**.
+
+<br>
+
+🛠️ <b>Tech:</b> C++, POSIX Sockets, Multithreading, Docker, Docker Compose, Bash, GitHub Actions
+
 <ul>
-  <li>📈 Over 15 daily downloads, empowering job seekers.</li>
-  <li>📊 Achieved a 40% increase in user engagement through intuitive design.</li>
+  <li>🌐 Built a custom TCP server supporting <b>SET, GET, DEL, EXISTS, EXPIRE, TTL, and KEYS</b> commands.</li>
+  <li>🧵 Implemented concurrent client handling using <b>std::thread</b> with thread-safe shared state protected by <b>std::shared_mutex</b>.</li>
+  <li>⏱️ Added per-key <b>TTL-based expiration</b> with lazy deletion to efficiently manage expiring entries.</li>
+  <li>💾 Implemented <b>snapshot-based persistence</b> with state restoration across graceful server restarts.</li>
+  <li>🐳 Containerized the application using <b>multi-stage Docker builds</b> and Docker Compose with persistent volume mapping.</li>
+  <li>⚙️ Configured <b>GitHub Actions CI</b> to automatically validate C++ and Docker builds.</li>
 </ul>
-🔗 <a href="https://craft-resume.vercel.app/" target="_blank" rel="noopener noreferrer"><b>Explore Live »</b></a>
+
+🔗 <a href="https://github.com/mesumittiwari/MiniRedis" target="_blank" rel="noopener noreferrer"><b>View on GitHub »</b></a>
+
 </details>
 
 <details>
-<summary>📧 <b>AI-Powered Cold Email Generator</b></summary>
+<summary>📝 <b>MeetScribe — AI Meeting Intelligence Platform</b></summary>
+
+<br>
+
+A full-stack **meeting intelligence platform** that transforms audio/video recordings into structured transcripts, summaries, action items, and meeting insights using AI.
+
+<br>
+
+🛠️ <b>Tech:</b> Python, FastAPI, React, Tailwind CSS, Groq Whisper, Google Gemini, Resend, Render
+
+<ul>
+  <li>🎙️ Built a FastAPI + React application for <b>multi-format audio/video transcription</b> with support for MP3, WAV, M4A, MP4, MPEG, MPGA, OGG, FLAC, and WEBM files.</li>
+  <li>🧠 Integrated <b>Groq Whisper</b> for transcription and <b>Google Gemini</b> for structured AI-powered meeting analysis, including summaries, key insights, and action items.</li>
+  <li>📦 Added <b>25 MB file-size validation</b> to provide predictable processing and prevent oversized uploads from reaching the transcription service.</li>
+  <li>📧 Integrated <b>Resend</b> for email delivery, allowing users to send generated meeting summaries directly to a recipient.</li>
+  <li>📤 Implemented structured <b>JSON and CSV export</b> for generated meeting analysis results.</li>
+  <li>🚀 Deployed the application on <b>Render</b> with separate frontend and backend services and environment-based API configuration.</li>
+</ul>
+
+🔗 <a href="https://github.com/mesumittiwari/MeetScribe" target="_blank" rel="noopener noreferrer"><b>View on GitHub »</b></a>
+<br><br>
+🌐 <a href="https://ai-meeting-summarizer-1-sfrq.onrender.com/" target="_blank" rel="noopener noreferrer"><b>Live Demo »</b></a>
+
+</details>
+
+<details>
+<summary>📧 <b>PitchPilot — AI-Powered Cold Email Generator</b></summary>
 <br>
 An intelligent tool that automates personalized cold emails from job descriptions using **AI**.
 <br><br>
@@ -139,17 +180,17 @@ An intelligent tool that automates personalized cold emails from job description
 🔗 <a href="https://sumit-coldemailgenerator.streamlit.app/" target="_blank" rel="noopener noreferrer"><b>Try it Out »</b></a>
 </details>
 
-<details>
-<summary>📝 <b>AI Meeting Summarizer</b></summary>
+<details open>
+<summary>🌐 <b>Craft.resume</b></summary>
 <br>
-An innovative application that transcribes & summarizes meeting audio/text using **Whisper.cpp** and **LLMs**.
+A dynamic web application for building professional resumes with **real-time preview** and seamless **PDF export**.
 <br><br>
-💻 <b>Tech:</b> Python, FastAPI, React, Tailwind CSS, Gemini API
+🛠️ <b>Tech:</b> HTML, CSS, JavaScript
 <ul>
-  <li>📤 Flexible export options in CSV & JSON formats.</li>
-  <li>📧 Integrated email sharing for seamless distribution.</li>
+  <li>📈 Over 15 daily downloads, empowering job seekers.</li>
+  <li>📊 Achieved a 40% increase in user engagement through intuitive design.</li>
 </ul>
-🔗 <a href="https://ai-meeting-summarizer-1-sfrq.onrender.com/" target="_blank" rel="noopener noreferrer"><b>See in Action »</b></a>
+🔗 <a href="https://craft-resume.vercel.app/" target="_blank" rel="noopener noreferrer"><b>Explore Live »</b></a>
 </details>
 
 <hr style="border: 1px solid #80CBC4;">
