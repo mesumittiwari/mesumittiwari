@@ -113,10 +113,6 @@ Building software with a strong foundation in **Computer Science fundamentals**,
 
 ### 🏆 Featured Projects
 
-<hr style="border: 1px solid #80CBC4;">
-
-### 💡 Featured Projects
-
 <details open>
 <summary>⚙️ <b>Mini-Redis — Persistent Multithreaded Key-Value Store</b></summary>
 
@@ -138,7 +134,7 @@ A lightweight **Redis-inspired in-memory key-value store** built from scratch in
 </ul>
 
 🔗 <a href="https://github.com/mesumittiwari/MiniRedis" target="_blank" rel="noopener noreferrer"><b>View on GitHub »</b></a>
-
+<hr style="border: 1px solid #80CBC4;">
 </details>
 
 <details>
@@ -164,7 +160,7 @@ A full-stack **meeting intelligence platform** that transforms audio/video recor
 🔗 <a href="https://github.com/mesumittiwari/MeetScribe" target="_blank" rel="noopener noreferrer"><b>View on GitHub »</b></a>
 <br><br>
 🌐 <a href="https://ai-meeting-summarizer-1-sfrq.onrender.com/" target="_blank" rel="noopener noreferrer"><b>Live Demo »</b></a>
-
+<hr style="border: 1px solid #80CBC4;">
 </details>
 
 <details>
@@ -178,6 +174,7 @@ An intelligent tool that automates personalized cold emails from job description
   <li>⏳ Reduces drafting time by 70-85%, boosting productivity.</li>
 </ul>
 🔗 <a href="https://sumit-coldemailgenerator.streamlit.app/" target="_blank" rel="noopener noreferrer"><b>Try it Out »</b></a>
+<hr style="border: 1px solid #80CBC4;">
 </details>
 
 <details open>
