@@ -159,7 +159,7 @@ A full-stack **meeting intelligence platform** that transforms audio/video recor
 
 🔗 <a href="https://github.com/mesumittiwari/MeetScribe" target="_blank" rel="noopener noreferrer"><b>View on GitHub »</b></a>
 <br><br>
-🌐 <a href="https://ai-meeting-summarizer-1-sfrq.onrender.com/" target="_blank" rel="noopener noreferrer"><b>Live Demo »</b></a>
+🌐 <a href="https://mesumittiwari.github.io/MeetScribe" target="_blank" rel="noopener noreferrer"><b>Live Demo »</b></a>
 <hr style="border: 1px solid #80CBC4;">
 </details>
 
