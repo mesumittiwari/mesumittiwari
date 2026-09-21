@@ -47,8 +47,22 @@
 
 Building software with a strong foundation in **Computer Science fundamentals**, modern development tools, and cloud technologies.
 
+<h3 align="center">Languages & Core</h3>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,mysql,git,github,linux,gcp,vercel,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,mysql" />
+</p>
+
+<h3 align="center">Systems, Backend & APIs</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,fastapi,postman,docker" />
+</p>
+
+<h3 align="center">Tools & Cloud</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,gcp,vscode" />
 </p>
 
 <details>
